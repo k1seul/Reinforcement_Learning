@@ -12,7 +12,10 @@ Reinforcement Learning is interdisciplinary study of optimal control and machine
 * **Marr's Three levels of Analysis**
   * Computational theory: What is the goal of the computiation, why is it appropriate, and what is the logic of strategy by which it can be carried out? [1] 
   * Representation and algorithm: How can this computational theory be implemented? In particular, what is the representation for the input and output, and what is the algorithm for the transformation? [1]
-  * Hardware implementation: How can the representation and algorithm be realized physically? [Marr (1982), p. 25] [1] 
+  * Hardware implementation: How can the representation and algorithm be realized physically? [Marr (1982), p. 25] [1]
+
+
+For example, we can view the current reinforcement learning research based on following aspects. 1) The goal of a reinforcement learning agent is to maximize single scalar reward by optimizing it's policy $\pi(a|s)$. It does not compute the reasons and implication of doing such action which might lead to [risk taking hazardous actions](https://www.rand.org/pubs/research_reports/RRA1473-1.html) and [complicated sim to real transfer](https://arxiv.org/abs/2009.13303). To resolve these limitations research on [Risk-Averse RL](https://arxiv.org/abs/2205.05138) or [robotic RL reward design](https://arxiv.org/abs/2404.19173) is being done. 
  
 
 
