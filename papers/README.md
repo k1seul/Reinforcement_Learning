@@ -1,4 +1,4 @@
-# Papers to Read 📚
+# **Reinforcement Learning** Papers to Read 📚
 
 A curated list of research papers I plan to read, categorized by topic. This repository serves as my personal reading list and a place to track my progress.
 
@@ -20,15 +20,18 @@ A curated list of research papers I plan to read, categorized by topic. This rep
 
 ---
 
-### 1. **Deep Learning**
+### 1.Fundamentals
 | Paper Title | Author(s) | Link | Status |
 |-------------|------------|------|--------|
-| [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | Vaswani et al. | [arXiv](https://arxiv.org/abs/1706.03762) | To Read |
+| [Deep Q-Learning](https://deepmind.com/research/publications/playing-atari-deep-reinforcement-learning) | Mnih et al. | [DeepMind](https://deepmind.com/research/publications/playing-atari-deep-reinforcement-learning) | Read |
+|[A3C](https://arxiv.org/abs/1602.01783)| Mnih et al. | [Google](https://arxiv.org/abs/1602.01783) | To Read |
 | TBD | TBD | TBD | TBD |
 
 ---
 
-### 2. **Reinforcement Learning**
+---
+
+### 2.Archtecture
 | Paper Title | Author(s) | Link | Status |
 |-------------|------------|------|--------|
 | [Deep Q-Learning](https://deepmind.com/research/publications/playing-atari-deep-reinforcement-learning) | Mnih et al. | [DeepMind](https://deepmind.com/research/publications/playing-atari-deep-reinforcement-learning) | To Read |
