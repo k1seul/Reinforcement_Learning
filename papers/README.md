@@ -11,7 +11,14 @@ A curated list of research papers I plan to read, categorized by topic. This rep
 
 ---
 
+## Progress Tracker 📈
+- **To Read**: XX papers
+- **In Progress**: XX papers
+- **Read**: XX papers
+
 ## Categories
+
+---
 
 ### 1. **Deep Learning**
 | Paper Title | Author(s) | Link | Status |
@@ -29,32 +36,9 @@ A curated list of research papers I plan to read, categorized by topic. This rep
 
 ---
 
-### 3. **Neuroscience**
-| Paper Title | Author(s) | Link | Status |
-|-------------|------------|------|--------|
-| TBD | TBD | TBD | TBD |
-
----
-
-### 4. **Mathematics**
-| Paper Title | Author(s) | Link | Status |
-|-------------|------------|------|--------|
-| TBD | TBD | TBD | TBD |
-
----
-
-## Progress Tracker 📈
-- **To Read**: XX papers
-- **In Progress**: XX papers
-- **Read**: XX papers
-
 ---
 
 ## Contributing
 Feel free to suggest papers or improvements to this repository! Open a pull request or submit an issue.
 
----
-
-## License
-[MIT License](LICENSE)
 
